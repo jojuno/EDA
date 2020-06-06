@@ -1,3 +1,2 @@
-# Topic: Analyze POI data with COVID-19.
-## Sample work
+Analyze POI data with COVID-19.
 ![Alt Text](url)
