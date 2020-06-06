@@ -19,7 +19,6 @@ Built In Functions
 <br/>
 <br/>
 Comparison by Stay-At-Home Order Placed for the Number of Aggregated Cases by State in the U.S.  
-Left: Before the Order | Right: After the Order  
 <br/>
 <br/>
 ![time series video before order](https://github.com/jojuno/EDA/blob/master/vid%201.gif) ![time series video after order](https://github.com/jojuno/EDA/blob/master/vid%202.gif) 
