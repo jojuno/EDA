@@ -18,7 +18,7 @@ Built In Functions
 ![boxplot after order](https://github.com/jojuno/EDA/blob/master/change%20in%20residential%20stay%20by%20state%20in%20the%20U.S.%20after%20the%20stay-at-home%20order%20was%20placed.png) 
 <br/>
 <br/>
-Comparison by Stay-At-Home Order Placed
+Time Series Bar Plot Comparison - between the time before the stay at home order was placed and after
 <br/>
 <br/>
 <p float="left">
