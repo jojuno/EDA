@@ -6,3 +6,7 @@ Please see the files for the code.
 <br/>
 <br/>
 ![scatterplot, ggplot2](https://github.com/jojuno/EDA/blob/master/confirmed%20cases%20by%20dewpoint%20in%20the%20U.S..png)
+<br/>
+<br/>
+![boxplot before order](https://github.com/jojuno/EDA/blob/master/change%20in%20residential%20before%20order.png) 
+![boxplot after order](https://github.com/jojuno/EDA/blob/master/change%20in%20residential%20after%20order.png) 
