@@ -1,5 +1,5 @@
 Written in R  
-Please see the script file for the code.
+Please see "plot script.R" for the code.
 <br/>
 <br/>
 Library: GGPlot2
