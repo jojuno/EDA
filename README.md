@@ -16,3 +16,6 @@ Built In Functions
 <br/>
 ![boxplot before order](https://github.com/jojuno/EDA/blob/master/change%20in%20residential%20stay%20by%20state%20in%20the%20U.S.%20before%20the%20stay-at-home%20order%20was%20placed.png) 
 ![boxplot after order](https://github.com/jojuno/EDA/blob/master/change%20in%20residential%20stay%20by%20state%20in%20the%20U.S.%20after%20the%20stay-at-home%20order%20was%20placed.png) 
+<br/>
+<br/>
+![time series video before order](https://github.com/jojuno/EDA/blob/master/aggregated%20cases%20over%20time%20before%20order.gif) ![time series video after order](https://github.com/jojuno/EDA/blob/master/aggregated%20cases%20over%20time%20after%20order.gif) 
