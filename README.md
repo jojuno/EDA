@@ -18,4 +18,7 @@ Built In Functions
 ![boxplot after order](https://github.com/jojuno/EDA/blob/master/change%20in%20residential%20stay%20by%20state%20in%20the%20U.S.%20after%20the%20stay-at-home%20order%20was%20placed.png) 
 <br/>
 <br/>
-<img src="time series before the order agg cases.gif" width="450" height="250"/> <img src="time series after the order agg cases.gif" width="450" height="250"/>
+<p float="left">
+  <img src="time series before the order agg cases.gif" width="450" height="250"/> <img src="time series after the order agg cases.gif" width="450" height="250"/>
+</p>
+
