@@ -19,7 +19,7 @@ Built In Functions
 <br/>
 <br/>
 <p float="left">
-  <img src="time series before the order agg cases.gif" width="450" height="250"/>
-  <img src="time series after the order agg cases.gif" width="450" height="250"/>
+  <img src="time series before the order agg cases.gif" width="400" height="220"/>
+  <img src="time series after the order agg cases.gif" width="400" height="220"/>
 </p>
 
